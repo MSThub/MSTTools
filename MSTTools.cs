@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 public static class MSTTools
 {
     public static string colorG = "\u001b[38;2;2;219;111m";
@@ -96,5 +91,13 @@ public static class MSTTools
     {
         Console.WriteLine($"{colorG}{message}{ResetColor}");
     }
-
+    public static void WaitForUser()
+    {
+        Console.Write("Press Any Key To Continue...");
+        Console.ReadKey();
+    }
+    public static void ShowItems(int id, string item)
+    {
+        Console.WriteLine($"{colorG}+ {ResetColor}{id} {colorG}--> {ResetColor}{item}");
+    }
 }
