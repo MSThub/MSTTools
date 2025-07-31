@@ -1,0 +1,10 @@
+C:\Users\MST\RiderProjects\MSTTools\MST.Tools\bin\Release\netstandard2.0\MST.Tools.deps.json
+C:\Users\MST\RiderProjects\MSTTools\MST.Tools\bin\Release\netstandard2.0\MST.Tools.dll
+C:\Users\MST\RiderProjects\MSTTools\MST.Tools\bin\Release\netstandard2.0\MST.Tools.pdb
+C:\Users\MST\RiderProjects\MSTTools\MST.Tools\obj\Release\netstandard2.0\MST.Tools.csproj.AssemblyReference.cache
+C:\Users\MST\RiderProjects\MSTTools\MST.Tools\obj\Release\netstandard2.0\MST.Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MST\RiderProjects\MSTTools\MST.Tools\obj\Release\netstandard2.0\MST.Tools.AssemblyInfoInputs.cache
+C:\Users\MST\RiderProjects\MSTTools\MST.Tools\obj\Release\netstandard2.0\MST.Tools.AssemblyInfo.cs
+C:\Users\MST\RiderProjects\MSTTools\MST.Tools\obj\Release\netstandard2.0\MST.Tools.csproj.CoreCompileInputs.cache
+C:\Users\MST\RiderProjects\MSTTools\MST.Tools\obj\Release\netstandard2.0\MST.Tools.dll
+C:\Users\MST\RiderProjects\MSTTools\MST.Tools\obj\Release\netstandard2.0\MST.Tools.pdb
